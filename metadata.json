@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Optimizer (IT to EN)",
+  "description": "Transforms natural language Italian inputs into token-optimized English prompts.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
